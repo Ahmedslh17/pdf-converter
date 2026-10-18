@@ -68,3 +68,4 @@ end
 gem "tailwindcss-rails", "~> 4.6"
 gem "prawn", "~> 2.4"
 gem "marcel", "~> 1.2"
+gem "matrix"
