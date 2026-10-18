@@ -381,6 +381,7 @@ DEPENDENCIES
   jbuilder
   kamal
   marcel (~> 1.2)
+  matrix
   prawn (~> 2.4)
   propshaft
   puma (>= 5.0)
